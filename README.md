@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from Bangladesh,</h3>
 <img width="1584" height="672" alt="image_90b19690" src="https://github.com/user-attachments/assets/798165a6-e9b0-40bc-814f-8d6952e57a40" />
 
+<h3 align="left">About me:</h3>
+
 - 🔭 I’m currently working on **React Router Explore**
 
 - 🌱 I’m currently learning **MERN STACK Web Development**
@@ -9,6 +11,17 @@
 - 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **mdmukhlesurrahman1@gmail.com**
+
+<h3 align="left">Activity:</h3>
+
+- HTML Completed
+- CSS Completed
+- JavaScript Completed
+- ES6 Completed
+- React Completed
+- React Router Exploring
+- Next JS Exploring
+- Next Terget Backend With MongoDB, NodeJS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
